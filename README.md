@@ -4,6 +4,8 @@
 
 Are you curious about the inner workings of ChatGPT? Do you have questions about its powerful language generation capabilities and how it is able to produce coherent and contextually relevant text? Look no further than this FAQ document! By reading this document, you'll gain valuable insights into the fascinating technology that powers ChatGPT's language generation capabilities. So why wait? Dive in and discover the world of ChatGPT!
 
+中文版本请参考： [https://github.com/kenhuangus/ChatGPT-FAQ/blob/main/ChatGPT-ChineseFAQ.md](https://github.com/kenhuangus/ChatGPT-FAQ/blob/main/ChatGPT-ChineseFAQ.md)
+
 **1: How does GPT and ChatGPT handle tokenization?**
 
 Tokenization is the process of breaking down text into smaller units called tokens, usually words or subwords. GPT and ChatGPT use a technique called Byte Pair Encoding (BPE) for tokenization. BPE is a data compression algorithm that starts by encoding a text using bytes and then iteratively merges the most frequent pairs of symbols, effectively creating a vocabulary of subword units. This approach allows GPT and ChatGPT to handle a wide range of languages and efficiently represent rare words.
